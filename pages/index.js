@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
 
       <main>
-     <h1>oskars</h1>
+     <h1>oskars basovs</h1>
       </main>
 
       <footer>
